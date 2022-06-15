@@ -1,7 +1,7 @@
 public class VariableTest {
     
     public static void main(String[] args) {
-        int age, count;
+        int age;
         age = 10;
 
         int level = 10000;
