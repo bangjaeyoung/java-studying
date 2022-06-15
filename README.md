@@ -1,1 +1,1 @@
-java 공부 내용입니다.
+Studying with Java
