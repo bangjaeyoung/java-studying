@@ -1,3 +1,4 @@
+package ch09;
 public class LocalVariableType {
     
     public static void main(String[] args) {
