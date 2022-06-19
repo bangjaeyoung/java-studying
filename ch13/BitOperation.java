@@ -1,6 +1,6 @@
 package ch13;
 
-public class BitOperationTest {
+public class BitOperation {
 
 	public static void main(String[] args) {
 		

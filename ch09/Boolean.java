@@ -1,5 +1,5 @@
 package ch09;
-public class BooleanTest {
+public class Boolean {
 
     public static void main(String[] args) {
 

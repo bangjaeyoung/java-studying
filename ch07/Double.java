@@ -1,5 +1,5 @@
 package ch07;
-public class DoubleTest {
+public class Double {
 
     public static void main(String[] args) {
 

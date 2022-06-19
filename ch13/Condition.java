@@ -2,7 +2,7 @@ package ch13;
 
 import java.util.Scanner;
 
-public class ConditionTest {
+public class Condition {
 
 	public static void main(String[] args) {
 		

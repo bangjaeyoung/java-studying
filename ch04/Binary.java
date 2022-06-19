@@ -1,5 +1,5 @@
 package ch04;
-public class BinaryTest {
+public class Binary {
 
     public static void main(String[] args) {
 

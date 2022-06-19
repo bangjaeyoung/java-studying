@@ -1,7 +1,7 @@
 package ch12;
 
 
-public class LogicalTest {
+public class Logical {
 
 	public static void main(String[] args) {
 		

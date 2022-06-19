@@ -1,6 +1,6 @@
 package ch12;
 
-public class RelationTest {
+public class Relation {
 
 	public static void main(String[] args) {
 		

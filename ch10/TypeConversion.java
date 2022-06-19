@@ -1,5 +1,5 @@
 package ch10;
-public class TypeConversionTest {
+public class TypeConversion {
 
     public static void main(String[] args) {
 

@@ -1,5 +1,5 @@
 package ch11;
-public class OperatorTest {
+public class Operator {
 
     public static void main(String[] args) {
 

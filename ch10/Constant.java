@@ -1,5 +1,5 @@
 package ch10;
-public class ConstantTest {
+public class Constant {
 
     public static void main(String[] args) {
 

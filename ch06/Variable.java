@@ -1,5 +1,5 @@
 package ch06;
-public class VariableTest {
+public class Variable {
     
     public static void main(String[] args) {
         
