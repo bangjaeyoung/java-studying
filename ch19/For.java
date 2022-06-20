@@ -1,4 +1,4 @@
-package ch18.ch19;
+package ch19;
 
 public class For {
 
