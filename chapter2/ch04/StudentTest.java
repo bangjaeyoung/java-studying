@@ -24,6 +24,5 @@ public class StudentTest {
         studentBang.address = "인천 연수구";
 
         studentBang.showStudentInfo();
-
     }
 }
