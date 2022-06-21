@@ -33,13 +33,13 @@ public class Function {
         int n1 = 10;
         int n2 = 20;
 
-        int total = addNum(n1, n2);
-        System.out.println(total);
+        int total = addNum(n1, n2);      // total 변수에 반환값 저장
+        System.out.println(total);          // addNum 함수 사용
 
-        sayHello("Hi, Hello, Bonjour!");
+        sayHello("Hi, Hello, Bonjour!");        // sayHello 함수 사용
 
-        total = calcSum();
-        System.out.println(total);
+        total = calcSum();                  // total 변수에 반환값 저장
+        System.out.println(total);        // total 함수 사용
 
     }
 }
