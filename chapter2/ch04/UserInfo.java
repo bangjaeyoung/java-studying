@@ -1,7 +1,5 @@
 package chapter2.ch04;
 
-import javax.print.DocFlavor.STRING;
-
 public class UserInfo {
 
     String userName;
