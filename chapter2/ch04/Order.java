@@ -16,6 +16,11 @@ public class Order {
 
     }
 
+    public String getClientName() {
+        return clientName;
+   
+    }
+
     public void showOrderInfo() {
 
         System.out.println(clientName + " 고객님의 주문내역\n" + "ID : " + clientID + "\n고객번호 : " + clientNumber + "\n상품번호 : " + productNumber + "\n대기번호 : " + waitingNumber + "\n------------------------------");
