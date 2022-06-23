@@ -14,11 +14,14 @@ public class BreakTest {
             sum += i;
         
             if(sum > 100) {
-                break;
+
+               break;
+
             }
         }
 
         System.out.println(sum);
         System.out.println(i);
+        
     }
 }
