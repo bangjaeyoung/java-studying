@@ -19,3 +19,5 @@ public class StudentInfo {
         return studentName + " " + studentCode + " " + studentNumber;
     }
 }
+
+// 직접 생성자를 만듬

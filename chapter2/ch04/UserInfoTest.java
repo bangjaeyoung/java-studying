@@ -9,7 +9,7 @@ public class UserInfoTest {
         user1.userID = "Bang";
         user1.userPassword = "123";
         user1.userAddress = "인천시";
-        user1.phoneNumber = "010-4106-3333";
+        user1.phoneNumber = "010-xxxx-xxxx";
 
         user1.showUserInfo();
 
@@ -18,7 +18,7 @@ public class UserInfoTest {
         user2.userID = "Hong";
         user2.userPassword = "456";
         user2.userAddress = "서울시";
-        user2.phoneNumber = "010-3140-3563";
+        user2.phoneNumber = "010-xxxx-xxxx";
 
         user2.showUserInfo();
         

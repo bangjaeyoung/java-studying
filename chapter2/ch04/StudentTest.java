@@ -19,9 +19,9 @@ public class StudentTest {
         studentKim.showStudentInfo();
 
         Student studentBang = new Student();
-        studentBang.studentID = 20184215;
+        studentBang.studentID = 12121;
         studentBang.setStudentName("Bang");
-        studentBang.address = "인천 연수구";
+        studentBang.address = "인천시";
 
         studentBang.showStudentInfo();
     }

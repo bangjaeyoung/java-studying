@@ -9,9 +9,11 @@ public class UserInfoTest {
         userinfo.userID = "bang";
         userinfo.userPassword = "123";
         userinfo.userName = "jaeyoung";
-        userinfo.phoneNumber = "01032324343";
+        userinfo.phoneNumber = "010xxxxxxxx";
 
         userinfo.showUserInfor();
     }
     
-} // 기본 생성자로 구현
+}
+
+// 기본 생성자로 인스턴스를 구현
