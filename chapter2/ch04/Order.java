@@ -8,17 +8,20 @@ public class Order {
     public int productNumber;
     public int waitingNumber;
 
-    public Order() {}
+    public Order(String clientName, String clientID, int clientNumber, int productNumber, int waitingNumber) { // 직접 생성자 구현
+       
+        this.clientName = clientName;
+        this.clientID = clientID;
+        this.clientNumber = clientNumber;
+        this.productNumber = productNumber;
+        this.waitingNumber = waitingNumber;
+
+    }
 
     public void setClientName(String name) {
 
         clientName = name;
 
-    }
-
-    public String getClientName() {
-        return clientName;
-   
     }
 
     public void showOrderInfo() {
