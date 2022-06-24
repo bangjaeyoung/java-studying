@@ -6,6 +6,6 @@ public class Subject {
     int score;
     String subjectID;
 
-
+    // 멤버 변수 생성
     
 }
