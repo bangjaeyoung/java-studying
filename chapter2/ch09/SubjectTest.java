@@ -12,7 +12,7 @@ public class SubjectTest {
         studentKim.setScienceSubject("과학", 30);
         studentKim.setMathSubject("수학", 91);
 
-        studentLee.showScoreInfo();
+        studentLee.showScoreInfo(); 
         studentKim.showScoreInfo();
 
     }
