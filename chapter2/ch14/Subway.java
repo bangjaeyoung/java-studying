@@ -2,21 +2,20 @@ package chapter2.ch14;
 
 public class Subway {
 
-    int lineNumber;
-    int passengerCount;
+    String subwayColor;
     int money;
+    int passengerCount;
 
-    public Subway(int lineNumber) {
-        this.lineNumber = lineNumber;
+    public Subway(String subwayColor) {
+        this.subwayColor = subwayColor;
     }
 
     public void take(int money) {
-        this.money += money;
+    this.money += money;
         passengerCount++;
     }
-
-    public void showSubwayInfo() {
-        System.out.println(lineNumber + "번의 승객 수는 " + passengerCount + "명이고, 수입은 " + money + "원입니다."); 
-    }
     
+    public void showPresentSituationOfSubway() {
+        System.out.println(subwayColor + "색 지하철의 승객은 " + passengerCount + "명 이고, 수입은 " + money + "원 입니다");
+    }
 }

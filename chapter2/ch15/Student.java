@@ -11,7 +11,7 @@ public class Student {
     }
 
     public void takeTaxi(Taxi taxi) {
-        taxi.take(money);
+        taxi.take(10000);
         this.money -= 10000;
     }
 
