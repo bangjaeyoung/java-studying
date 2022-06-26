@@ -34,3 +34,4 @@ public class MakeReport {
         return buffer.toString();
     }
 }
+// 숨길 메서드는 private으로 숨기고, 마지막에 public 메서드로 숨길 메서드를 실행하도록 만듬
