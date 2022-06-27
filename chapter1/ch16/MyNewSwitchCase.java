@@ -33,6 +33,7 @@ public class MyNewSwitchCase {
             //switch, case, default, yield
             //업그레이드 버전의 switch(case)문
 		};
+		System.out.println(term);
         scanner.close();
 	}
 }

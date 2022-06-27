@@ -34,7 +34,7 @@ public class SwitchCase {
          //switch, case, break, default
     }
     //System.out.println(month + "월은" + day + "일입니다");
-
+    System.out.println(day);
     scanner.close();
 }
 }

@@ -13,47 +13,28 @@ public class BirthDay {
     }
 
     public void setDay(int day) {
-        
         switch(month) {
-
                 case 1, 3, 5, 7, 8, 10, 12 -> {
-
                     if(day >= 1 && day <= 31) {
                   
                         this.day = day;
                         isValid = true;
-            
-                    }
-                    else
-                  
+                    }else
                     isValid = false;
-                      
                 }
-            
                 case 2 -> {
-            
                     if(day >= 1 && day <= 28) {
-            
                         this.day = day;
                         isValid = true;
-        
                     }else
-        
                     isValid = false;
-        
                 }
-        
                 case 4, 6, 9, 11 -> {
-        
                     if(day >= 1 && day <= 30) {
-        
                         this.day = day;
                         isValid = true;
-        
                     }else
-        
                     isValid = false;
-        
                 }
             }
         }
@@ -63,14 +44,11 @@ public class BirthDay {
     }
 
     public void setMonth(int month) {
-
         if(month >= 1 && month <= 12) {
             this.month = month;
             isValid = true;
         } else
-        
         isValid = false;
-        
     }
 
     public int getYear() {
@@ -86,11 +64,8 @@ public class BirthDay {
         if (isValid) {
             System.out.println(year + "년 " + month + "월 " + day + "일");
         }
-       
         else {
             System.out.println("유효하지 않은 날짜입니다");
         }
-
     }
-
 }

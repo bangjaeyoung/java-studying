@@ -29,6 +29,7 @@ public class NewSwitchCase {
 				day = 0;
 			}
 		}
+		System.out.println(day);
         scanner.close();
 		}
 	}

@@ -17,10 +17,6 @@ public class MakeReport {
         buffer.append("James\t");
         buffer.append("Seoul Korea\t");
         buffer.append("010-2222-3333\n");
-
-        buffer.append("Tomas\t");
-        buffer.append("NewYork US\t");
-        buffer.append("010-3333-4444\n");
     }
 
     private void makeFooter() {
