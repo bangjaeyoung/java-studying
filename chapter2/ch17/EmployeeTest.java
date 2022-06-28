@@ -5,6 +5,7 @@ public class EmployeeTest {
     public static void main(String[] args) {
 
         System.out.println(Employee.getSerialNum());
+        // static 변수는 클래스 이름으로 참조한다.
 
         Employee employeeLee = new Employee();
         employeeLee.setEmployeeName("이순신");
