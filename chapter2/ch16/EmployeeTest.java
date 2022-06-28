@@ -7,7 +7,7 @@ public class EmployeeTest {
         Employee employeeLee = new Employee();
         employeeLee.setEmployeeName("이순신");
 
-        System.out.println(Employee.serialNum);
+        System.out.println(Employee.serialNum); // static 변수는 클래스 이름을 참조해서 쓴다.
 
         Employee employeeKim = new Employee();
         employeeKim.setEmployeeName("김유신");
