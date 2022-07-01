@@ -20,7 +20,7 @@ public class Objectcopy {
             System.out.println(book);
             book.showInfo();
         }
-        System.out.println("=====copy library=====");     // 배열 복사하면 주소도 같아진다.
+        System.out.println("=====copy library=====");     // 배열 복사하면 주소가 같아진다.
         for(Book book : copyLibrary) {
             System.out.println(book);
             book.showInfo();
