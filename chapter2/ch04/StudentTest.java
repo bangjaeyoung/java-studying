@@ -6,7 +6,7 @@ public class StudentTest {
 
         Student studentLee = new Student();
         studentLee.studentID = 12345;
-        studentLee.studentName = "Lee";
+        studentLee.setStudentName("Lee");
         studentLee.address = "서울 강남구";
 
         studentLee.showStudentInfo();

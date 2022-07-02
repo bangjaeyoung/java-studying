@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="675eeaa7-bf75-4de5-9c71-9e2a11ff1812" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/chapter1/ch01/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/ch01/HelloJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/ch19/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/ch19/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/ch19/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/ch19/CarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/ch19/CarFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/ch19/CarFactoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2BF9eXeZnf0F84MFLdawT4Rt0Ue" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "C:/Users/user/workspace/final_javastudying",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.chapter1.ch19.While">
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.ch01.HelloJava" />
+      <module name="javastudying" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.ch01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter1.ch04.Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter1.ch04.Binary" />
+      <module name="javastudying" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter1.ch19.While" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/openjdk-17.0.1_windows-x64_bin/jdk-17.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter1.ch19.While" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter1.ch19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2.ch16.EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ch16.EmployeeTest" />
+      <module name="javastudying" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.ch16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chapter2.ch17.EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/openjdk-17.0.1_windows-x64_bin/jdk-17.0.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="chapter2.ch17.EmployeeTest" />
+      <module name="javastudying" />
+      <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.ch17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.chapter1.ch19.While" />
+      <item itemvalue="Application.chapter1.ch04.Binary" />
+      <item itemvalue="Application.HelloJava" />
+      <item itemvalue="Application.chapter2.ch16.EmployeeTest" />
+      <item itemvalue="Application.chapter2.ch17.EmployeeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.chapter2.ch17.EmployeeTest" />
+        <item itemvalue="Application.HelloJava" />
+        <item itemvalue="Application.chapter1.ch04.Binary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="675eeaa7-bf75-4de5-9c71-9e2a11ff1812" name="Changes" comment="" />
+      <created>1656491062183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656491062183</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/javastudying$chapter2_ch17_EmployeeTest.ic" NAME="chapter2.ch17.EmployeeTest Coverage Results" MODIFIED="1656509394080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>chapter2.ch17.*</FILTER>
+    </SUITE>
+  </component>
+</project>

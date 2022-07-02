@@ -6,7 +6,6 @@ public class Employee {
 
     private int employeeId;
     private String employeeName;
-    private String employeeDepartment;
 
     public Employee () {
         employeeId = serialNum;
@@ -25,12 +24,5 @@ public class Employee {
     }
     public void setEmployeeName(String employeeName) {
         this.employeeName = employeeName;
-    }
-
-    public String getEmployeeDepartment() {
-        return employeeDepartment;
-    }
-    public void setEmployeeDepartment(String employeeDepartment) {
-        this.employeeDepartment = employeeDepartment;
     }
 }

@@ -1,4 +1,4 @@
-package chapter2.ch19;
+package chapter2.ch19exercise;
 
 public class CarFactory {
 
@@ -7,15 +7,14 @@ public class CarFactory {
     private CarFactory() {}
 
     public static CarFactory getInstance() {
-        if (instance == null) {
+        if( instance == null ) {
             instance = new CarFactory();
         }
         return instance;
     }
 
-    public Car creatCar() {
+    public Car createCar() {
         Car car = new Car();
         return car;
     }
-
 }
