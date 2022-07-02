@@ -5,7 +5,6 @@ public class Subject {
     private String name;
     private int score;
 
-
     public String getName() {
         return name;
     }

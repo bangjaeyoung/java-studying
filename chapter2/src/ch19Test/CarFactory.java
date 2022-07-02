@@ -2,15 +2,15 @@ package ch19Test;
 
 public class CarFactory {
 
-    private static CarFactory Instance = new CarFactory();
+    private static CarFactory instance = new CarFactory();
 
     private CarFactory() {}
 
     public static CarFactory getInstance() {
-        if(Instance == null) {
-            Instance = new CarFactory();
+        if(instance == null) {
+            instance = new CarFactory();
         }
-        return Instance;
+        return instance;
     }
 
     public Car createCar() {

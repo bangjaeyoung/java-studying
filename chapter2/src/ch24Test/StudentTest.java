@@ -7,7 +7,7 @@ public class StudentTest {
 
         studentLee.addSubject("국어", 100);
         studentLee.addSubject("수학", 50);
-        studentLee.showScoreInfo();
+        studentLee.showStudentInfo();
         System.out.println("===================================");
 
         Student studentKim = new Student(1002, "Kim");
@@ -16,7 +16,7 @@ public class StudentTest {
         studentKim.addSubject("수학", 85);
         studentKim.addSubject("영어", 100);
 
-        studentKim.showScoreInfo();
+        studentKim.showStudentInfo();
 
     }
 }
