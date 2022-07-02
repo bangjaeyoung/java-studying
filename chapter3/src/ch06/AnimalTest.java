@@ -11,11 +11,10 @@ public class AnimalTest {
         Animal eAnimal = new Eagle();
 
         AnimalTest test = new AnimalTest();
-        /*
-        test.moveAnimal(hAnimal);
+
+        /*test.moveAnimal(hAnimal);
         test.moveAnimal(tAnimal);
-        test.moveAnimal(eAnimal);
-         */
+        test.moveAnimal(eAnimal);*/
 
         ArrayList<Animal> animalList = new ArrayList<>();
         animalList.add(hAnimal);
