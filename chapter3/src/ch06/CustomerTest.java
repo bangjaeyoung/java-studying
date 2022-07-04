@@ -22,16 +22,20 @@ public class CustomerTest {
 
         // 상위 클래스 Customer 2명, 하위 클래스 GoldCustomer 2명, 하위 클래스 VIPCustomer 1명을 생성하고, ArrayList에 추가한다.
 
-        for(Customer customer : customerList) {
-            System.out.println(customer.showCustomerInfo());
-        }
-
-        int price = 10000;
-        for(Customer customer : customerList) {
-
-            int cost = customer.calcPrice(price);
-            System.out.println(customer.getCustomerName() + "님이 " + cost + "원 지불하셨습니다.");
-            System.out.println(customer.getCustomerName() + "님의 현재 보너스 포인트는 " + customer.bonusPoint + "입니다.");
+//        for(Customer customer : customerList) {
+//            System.out.println(customer.showCustomerInfo());
+//        }
+//
+//        int price = 10000;
+//        for(Customer customer : customerList) {
+//
+//            int cost = customer.calcPrice(price);
+//            System.out.println(customer.getCustomerName() + "님이 " + cost + "원 지불하셨습니다.");
+//            System.out.println(customer.getCustomerName() + "님의 현재 보너스 포인트는 " + customer.bonusPoint + "입니다.");
+//        }
+        if (customerE instanceof GoldCustomer) {
+            GoldCustomer vc = (GoldCustomer)customerE;
+            System.out.println(customerE.showCustomerInfo());
         }
     }
 }
