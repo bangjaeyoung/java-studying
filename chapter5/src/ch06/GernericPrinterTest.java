@@ -1,0 +1,14 @@
+package ch06;
+
+public class GernericPrinterTest {
+
+    public static void main(String[] args) {
+
+        Powder powder = new Powder();
+        GenericPrinter<Powder> powderPrinter = new GenericPrinter<>();
+        powderPrinter.setMaterial(powder);
+
+        Powder P = powderPrinter.getMaterial();
+        System.out.println(powderPrinter.toString());
+    }
+}
