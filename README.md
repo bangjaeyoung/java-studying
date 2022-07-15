@@ -1,1 +1,1 @@
-# Studying Java
+Studying Java
