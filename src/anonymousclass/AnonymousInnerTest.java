@@ -1,4 +1,4 @@
-package advanced_java;
+package anonymousclass;
 
 // 메서드 호출 이후에도 사용해야하는 경우가 있을 수 있으므로,
 // 지역 내부 클래스에서 사용하는 메서드의 지역 변수나 매개 변수는 final로 선언됨
