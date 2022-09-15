@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/chapter3/chapter3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter4/chapter4.iml" filepath="$PROJECT_DIR$/chapter4/chapter4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/chapter5/chapter5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/ex/chapter2/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/ex/chapter3/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/chapter4/chapter4.iml" filepath="$PROJECT_DIR$/ex/chapter4/chapter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex/chapter5/chapter5.iml" filepath="$PROJECT_DIR$/ex/chapter5/chapter5.iml" />
       <module fileurl="file://$PROJECT_DIR$/javastudying2.iml" filepath="$PROJECT_DIR$/javastudying2.iml" />
     </modules>
   </component>

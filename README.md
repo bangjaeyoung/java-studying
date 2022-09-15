@@ -2,6 +2,4 @@
 
 > OOP
 
-> Class
-
 > Data Structure

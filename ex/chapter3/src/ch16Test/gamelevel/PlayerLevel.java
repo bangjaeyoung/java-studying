@@ -1,4 +1,4 @@
-package ch16Test.gameLevel;
+package ch16Test.gamelevel;
 
 public abstract class PlayerLevel {
 
