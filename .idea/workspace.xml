@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675eeaa7-bf75-4de5-9c71-9e2a11ff1812" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/lambdause/AddTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdause/MyNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdause/StringConcatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ArrayListStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/IntArrayStreamTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/ReduceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/AddTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/AnonymousInnerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/MyNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/MyNumberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/Outer2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/Outer2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/advanced_java/Outer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/lambdause/StringConcatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/lambdause/StringConcatTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +66,7 @@
       <recent name="C:\Users\user\java-studying\ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringConcatTest">
+  <component name="RunManager" selected="Application.ReduceTest">
     <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdause.AddTest" />
       <module name="javastudying2" />
@@ -87,12 +80,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anonymousClass.MyNumberTest" />
+    <configuration name="ArrayListStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.ArrayListStreamTest" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="anonymousclass.*" />
+          <option name="PATTERN" value="stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntArrayStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.IntArrayStreamTest" />
+      <module name="javastudying2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.IntArrayStreamTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.ReduceTest" />
+      <module name="javastudying2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,19 +125,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lambdause.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="anonymousClass.AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="anonymousClass.AddTest" />
-      <module name="javastudying2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="anonymousclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,34 +146,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lambdause.MyNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdause.MyNumberTest" />
-      <module name="javastudying2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdause.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.chapter1.ch19.While" />
+      <item itemvalue="Application.ArrayListStreamTest" />
+      <item itemvalue="Application.IntArrayStreamTest" />
+      <item itemvalue="Application.ReduceTest" />
       <item itemvalue="Application.StringConcatTest" />
-      <item itemvalue="Application.lambdause.MyNumberTest" />
       <item itemvalue="Application.AddTest" />
-      <item itemvalue="Application.MyNumberTest" />
-      <item itemvalue="Application.anonymousClass.AddTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReduceTest" />
+        <item itemvalue="Application.ArrayListStreamTest" />
+        <item itemvalue="Application.IntArrayStreamTest" />
         <item itemvalue="Application.StringConcatTest" />
         <item itemvalue="Application.AddTest" />
-        <item itemvalue="Application.lambdause.MyNumberTest" />
-        <item itemvalue="Application.anonymousClass.AddTest" />
-        <item itemvalue="Application.MyNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +175,7 @@
       <workItem from="1663239859437" duration="627000" />
       <workItem from="1663240517106" duration="105000" />
       <workItem from="1663241987757" duration="3488000" />
-      <workItem from="1663245901129" duration="1673000" />
+      <workItem from="1663245901129" duration="6587000" />
     </task>
     <servers />
   </component>
