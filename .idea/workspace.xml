@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675eeaa7-bf75-4de5-9c71-9e2a11ff1812" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/stream/ArrayListStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/IntArrayStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/ReduceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/lambdause/StringConcatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/lambdause/StringConcatTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/stream/CompareString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/stream/CompareString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/stream/ReduceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/stream/ReduceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +39,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +66,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/user/java-studying",
+    "last_opened_file_path": "C:/Users/user/java-studying/src/thread",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,21 +74,24 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\java-studying\src\thread" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\java-studying\ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReduceTest">
-    <configuration name="AddTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdause.AddTest" />
+  <component name="RunManager" selected="Application.ThreadExample13 (3)">
+    <configuration name="ThreadExample11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample11" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdause.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.ArrayListStreamTest" />
+    <configuration name="ThreadExample13 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntArrayStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.IntArrayStreamTest" />
+    <configuration name="ThreadExample13 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.IntArrayStreamTest" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReduceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.ReduceTest" />
+    <configuration name="ThreadExample13 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringConcatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdause.StringConcatTest" />
+    <configuration name="ThreadExample13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdause.*" />
+          <option name="PATTERN" value="thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +167,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.chapter1.ch19.While" />
-      <item itemvalue="Application.ArrayListStreamTest" />
-      <item itemvalue="Application.IntArrayStreamTest" />
-      <item itemvalue="Application.ReduceTest" />
-      <item itemvalue="Application.StringConcatTest" />
-      <item itemvalue="Application.AddTest" />
+      <item itemvalue="Application.ThreadExample11" />
+      <item itemvalue="Application.ThreadExample13" />
+      <item itemvalue="Application.ThreadExample13 (1)" />
+      <item itemvalue="Application.ThreadExample13 (2)" />
+      <item itemvalue="Application.ThreadExample13 (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReduceTest" />
-        <item itemvalue="Application.ArrayListStreamTest" />
-        <item itemvalue="Application.IntArrayStreamTest" />
-        <item itemvalue="Application.StringConcatTest" />
-        <item itemvalue="Application.AddTest" />
+        <item itemvalue="Application.ThreadExample13 (3)" />
+        <item itemvalue="Application.ThreadExample13 (2)" />
+        <item itemvalue="Application.ThreadExample13 (1)" />
+        <item itemvalue="Application.ThreadExample13" />
+        <item itemvalue="Application.ThreadExample11" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +194,9 @@
       <workItem from="1663239859437" duration="627000" />
       <workItem from="1663240517106" duration="105000" />
       <workItem from="1663241987757" duration="3488000" />
-      <workItem from="1663245901129" duration="6587000" />
+      <workItem from="1663245901129" duration="10803000" />
+      <workItem from="1663285435887" duration="643000" />
+      <workItem from="1663303960830" duration="7868000" />
     </task>
     <servers />
   </component>
