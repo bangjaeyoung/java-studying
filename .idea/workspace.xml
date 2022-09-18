@@ -5,22 +5,154 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="675eeaa7-bf75-4de5-9c71-9e2a11ff1812" name="Changes" comment="Changes">
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/thread/ThreadExample9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/ThreeDPrinter1/ThreeDPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generic/ThreeDPrinter2/ThreeDPrinterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/stream/CompareString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/stream/CompareString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javastudying2/stream/ReduceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javastudying2/stream/ReduceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19/CarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19/CarFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19/CarFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19/CarFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19Test/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19Test/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19Test/CarFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19Test/CarFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch19Test/CarFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch19Test/CarFactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/Array1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/Array1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/Array2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/Array2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/Array3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/ArrayCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/ArrayCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch20/CharArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch20/CharArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch21/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch21/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch21/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch21/BookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch21/Objectcopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch21/Objectcopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch21/ObjectcopyDeep.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch21/ObjectcopyDeep.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch22/TwoDimension.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch22/TwoDimension.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch23/ArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch23/ArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24Test/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24Test/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24Test/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24Test/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter2/ch24Test/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter2/ch24Test/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch02/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch02/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch02/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch02/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch02/VIPCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch02/VIPCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch03/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch03/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch03/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch03/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch03/VIPCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch03/VIPCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch04/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch04/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch04/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch04/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch04/VIPCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch04/VIPCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch05/TestMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch05/TestMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Eagle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest$Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/AnimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/GoldCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/GoldCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch06/VIPCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch06/VIPCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Eagle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Tiger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest$Tiger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch08/AnimalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch09/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch09/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch09/ComputerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch09/ComputerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch09/Desktop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch09/Desktop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch09/MyNoteBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch09/MyNoteBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch09/NoteBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch09/NoteBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/AICar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/AICar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/CarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/CarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/Define.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/Define.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/ManualCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/ManualCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch10/UsingDefine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch10/UsingDefine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch11/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch11/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch11/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch11/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch11/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch11/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch11/CompleteCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch11/CompleteCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/UserInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/UserInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/UserInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/UserInfoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/mysql/UserInfoMySqlDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/mysql/UserInfoMySqlDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch13/domain/userinfo/dao/oracle/UserInfoOracleDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch13/web/userinfo/UserInfoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch13/web/userinfo/UserInfoClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch14/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch14/Calc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch14/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch14/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch14/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch14/CalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch14/CompleteCalc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch14/CompleteCalc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/BookShelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/BookShelf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/BookShelfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/BookShelfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/Buy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/Buy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/CustomerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/Sell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/Sell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch15/Shelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch15/Shelf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/AdvancedLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/AdvancedLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/BeginnerLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/BeginnerLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/MainBoardPlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/MainBoardPlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/PlayerLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/PlayerLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/SuperLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/gameLevel/SuperLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/LeastJob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/LeastJob.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/PriorityAllocation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/PriorityAllocation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/RoundRobin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/RoundRobin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/Scheduler.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/Scheduler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/SchedulerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter3/ch16Test/scheduler/SchedulerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch01/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch01/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch01/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch01/BookTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch02/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch02/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch02/equalsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch02/equalsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch03/StringBuilderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch03/StringBuilderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch03/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch03/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch04/ClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch04/ClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch04/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch04/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter4/ch04/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter4/ch04/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch02/MyArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch02/MyArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch02/MyArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch02/MyArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch02/MyObjectArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch02/MyObjectArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch03/MyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch03/MyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch03/MyLinkedListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch03/MyLinkedListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch03/MyListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch03/MyListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch04/MyArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch04/MyArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch04/MyArrayStackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch04/MyArrayStackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch05/IQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch05/IQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch05/MyLinkedQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch05/MyLinkedQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch05/MyLinkedQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch05/MyLinkedQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/GenericPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/GenericPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/GernericPrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/GernericPrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/Plastic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/Plastic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/Powder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/Powder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinter3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch06/ThreeDPrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch07/GenericPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch07/GenericPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch07/GernericPrinterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch07/GernericPrinterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch07/Material.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch07/Material.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch07/Plastic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch07/Plastic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch07/Powder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch07/Powder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch08/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch08/GenericMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch08/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch08/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch10/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch10/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch10/MemberArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch10/MemberArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch10/MemberArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch10/MemberArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch11/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch11/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch11/MemberArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch11/MemberArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch11/MemberArrayListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch11/MemberArrayListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch12/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch12/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch12/MemberHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch12/MemberHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch12/MemberHashSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch12/MemberHashSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch13/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch13/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch13/MemberTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch13/MemberTreeSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch13/MemberTreeSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch13/MemberTreeSetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch14/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch14/Member.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch14/MemberHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch14/MemberHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/ch14/MemberHashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/ch14/MemberHashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/practice/generic/EmployeeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/practice/generic/EmployeeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/practice/generic/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/practice/generic/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chapter5/practice/generic/PesonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chapter5/practice/generic/PesonTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +198,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/user/java-studying/src/thread",
+    "last_opened_file_path": "C:/Users/user/java-studying/src/generic_second",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -79,32 +211,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\java-studying\src\generic_second" />
       <recent name="C:\Users\user\java-studying\src\thread" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\user\java-studying\ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadExample13 (3)">
-    <configuration name="ThreadExample11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample11" />
+  <component name="RunManager" selected="Application.GenericMethod">
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.GenericMethod" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadExample13 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
-      <module name="javastudying2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadExample13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.ThreadExample13" />
+    <configuration name="ThreeDPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ThreeDPrinter1.ThreeDPrinterTest" />
       <module name="javastudying2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.*" />
+          <option name="PATTERN" value="generic.ThreeDPrinter1.GenericPrinter" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,21 +285,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="generic.ThreeDPrinter2.ThreeDPrinterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generic.ThreeDPrinter2.ThreeDPrinterTest" />
+      <module name="javastudying2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="generic.ThreeDPrinter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.chapter1.ch19.While" />
-      <item itemvalue="Application.ThreadExample11" />
-      <item itemvalue="Application.ThreadExample13" />
-      <item itemvalue="Application.ThreadExample13 (1)" />
+      <item itemvalue="Application.GenericMethod" />
+      <item itemvalue="Application.ThreeDPrinterTest" />
+      <item itemvalue="Application.generic.ThreeDPrinter2.ThreeDPrinterTest" />
       <item itemvalue="Application.ThreadExample13 (2)" />
       <item itemvalue="Application.ThreadExample13 (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenericMethod" />
+        <item itemvalue="Application.generic.ThreeDPrinter2.ThreeDPrinterTest" />
+        <item itemvalue="Application.ThreeDPrinterTest" />
         <item itemvalue="Application.ThreadExample13 (3)" />
         <item itemvalue="Application.ThreadExample13 (2)" />
-        <item itemvalue="Application.ThreadExample13 (1)" />
-        <item itemvalue="Application.ThreadExample13" />
-        <item itemvalue="Application.ThreadExample11" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +329,10 @@
       <workItem from="1663241987757" duration="3488000" />
       <workItem from="1663245901129" duration="10803000" />
       <workItem from="1663285435887" duration="643000" />
-      <workItem from="1663303960830" duration="7868000" />
+      <workItem from="1663303960830" duration="8100000" />
+      <workItem from="1663325396674" duration="611000" />
+      <workItem from="1663329346353" duration="9000" />
+      <workItem from="1663486274081" duration="3411000" />
     </task>
     <servers />
   </component>
